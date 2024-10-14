@@ -1,6 +1,6 @@
 # Farhan: The software engineer
 
-**Farhan** here, I'm writed the thouzon line of _code_ , of course i'm a programmer.
+**Farhan** here, I'm writed the thousand line of _code_ , of course i'm a programmer.
 <br />
 
 But, that's enought ?
